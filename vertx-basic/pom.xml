@@ -21,7 +21,7 @@
     </build>
 
     <properties>
-        <vertx-web.version>3.9.1</vertx-web.version>
+        <vertx-web.version>3.9.4</vertx-web.version>
         <vertx-core.version>3.9.1</vertx-core.version>
         <vertx-hazelcast.version>3.9.2</vertx-hazelcast.version>
     </properties>
