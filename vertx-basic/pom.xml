@@ -22,7 +22,7 @@
 
     <properties>
         <vertx-web.version>3.9.1</vertx-web.version>
-        <vertx-core.version>3.9.1</vertx-core.version>
+        <vertx-core.version>4.5.24</vertx-core.version>
         <vertx-hazelcast.version>3.9.2</vertx-hazelcast.version>
     </properties>
 
